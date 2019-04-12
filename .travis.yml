@@ -1,7 +1,8 @@
 dist: xenial
 language: java
 jdk:
-	- openjdk
+- openjdk11
 cache:
-	directories:
-	- $HOME/ .m2
+directories:
+- $HOME/.m2
+
