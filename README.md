@@ -6,7 +6,9 @@ The application is simplified and deliberately contains bugs.
 
 ## Getting started
 
+
 - The project is implemented in Java 8. (jdk version 12)
+- The project is implemented in Java 8. (jdk version 10)
 - The project can be built using [Maven](https://maven.apache.org/).
 - [JUnit](http://junit.org/junit4/) is used for tests, and [Mockito](http://site.mockito.org/) for isolating dependencies.
 
